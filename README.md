@@ -2,8 +2,8 @@
 
 ## Some stats
 <section>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipecavichiollisilvestre&hide=contribs,prs&theme=github_dark&show_icons=true&custom_title=GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecavichiollisilvestre&theme=github_dark&exclude_repo=Projeto&layout=compact"/>
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=felipecavichiollisilvestre&hide=contribs,prs&theme=github_dark&show_icons=true&custom_title=GitHub Stats"/>
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecavichiollisilvestre&theme=github_dark&exclude_repo=Projeto&layout=compact"/>
 </section>
 
 ## Languages, frameworks and tools
